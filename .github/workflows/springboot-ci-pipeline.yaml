@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ip-172-31-5-10
+    runs-on: label-1
 
     steps:
       - name: Checkout repository
